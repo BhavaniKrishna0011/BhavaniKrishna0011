@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavaniKrishna0011&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BhavaniKrishna0011&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BhavaniKrishna0011&label=Visits&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
 ###DIGITAL BADGES:[![@BhavaniKrishna's Holopin board](https://holopin.me/bhavanikrishna0011)](https://holopin.io/@bhavanikrishna0011)
