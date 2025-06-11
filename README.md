@@ -25,6 +25,7 @@ _June 2024 – Present_
 - Implemented entity pooling and custom physics behaviors to boost frame-rate by 20%.  
 - Integrated Docker-based CI/CD pipelines for automated builds, tests, and deployments.  
 - Collaborated with artists and designers to ship two playable prototypes on schedule.  
+- I am Promoted to Permanent Employee and I am planning to stay for 3 mre years. 
 
 ---
 
